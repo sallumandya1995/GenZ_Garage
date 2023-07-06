@@ -18,7 +18,7 @@ Tap into the pivotal role that taglines and names play in the automotive realm, 
 
 
 <img width="921" alt="image" src="https://github.com/sallumandya1995/GenZ_Garage/assets/127108567/e400a6c7-cbaf-475a-a016-95a2e8814d56">
-------------------------------------------------------------------------------------------------------------------------------------------
+
 Tailor your automotive masterpiece to perfection, crafting a vehicle that embodies your distinct taste and preferences. Customize every detail and feature, curating a driving experience that is uniquely tailored to your desires. Prepare to witness the transformation as your automotive vision takes shape, a true reflection of your individuality on the open road.
 
 
@@ -26,7 +26,7 @@ Tailor your automotive masterpiece to perfection, crafting a vehicle that embodi
 
 
 <img width="920" alt="image" src="https://github.com/sallumandya1995/GenZ_Garage/assets/127108567/10b4cb3c-8840-49c6-8d59-231df7bd03f2">
-------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Discover the seamless convenience of our all-in-one platform, where you can effortlessly locate and replace specific parts of your vehicle with the aid of our cutting-edge technology. Effortlessly navigate through our advanced tools to identify and procure the precise car components you desire, streamlining the process with unmatched efficiency. Experience a transformative automotive experience where finding and replacing parts becomes a breeze, empowering you to keep your vehicle in optimal condition with ease.
 
