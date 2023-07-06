@@ -4,8 +4,9 @@ Attention, passionate car aficionados! Are you in search of an automotive marvel
 
 ![MicrosoftTeams-image (11)](https://github.com/sallumandya1995/GenZ_Garage/assets/127108567/d1adf532-388f-407e-a6e7-58cbdd64e80d)
 
-## Unleash the power of Gen AI to design your dream automobile
+
 Unleash your creative genius and forge automotive wonders using the formidable capabilities of Vertex AI Vision and Stable Diffusion. Embrace the power of cutting-edge technology as you sculpt visionary automobiles that push the boundaries of innovation and captivate the world. With Vertex AI Vision and Stable Diffusion at your fingertips, let your imagination soar and create automotive masterpieces that leave a lasting legacy.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 <img width="907" alt="image" src="https://github.com/sallumandya1995/GenZ_Garage/assets/127108567/7d8c99c5-8bae-4a32-a6b8-144771f2209a">
 
 Elevate your automotive brand to new heights of excitement by effortlessly generating your own captivating logo. Unleash your creative vision and craft an emblem that embodies the essence of your extraordinary automotive venture. 
@@ -17,22 +18,24 @@ Tap into the pivotal role that taglines and names play in the automotive realm, 
 
 
 <img width="921" alt="image" src="https://github.com/sallumandya1995/GenZ_Garage/assets/127108567/e400a6c7-cbaf-475a-a016-95a2e8814d56">
-
-## Tailor your automotive masterpiece to perfection, crafting a vehicle that embodies your distinct taste and preferences. Customize every detail and feature, curating a driving experience that is uniquely tailored to your desires. Prepare to witness the transformation as your automotive vision takes shape, a true reflection of your individuality on the open road.
+------------------------------------------------------------------------------------------------------------------------------------------
+Tailor your automotive masterpiece to perfection, crafting a vehicle that embodies your distinct taste and preferences. Customize every detail and feature, curating a driving experience that is uniquely tailored to your desires. Prepare to witness the transformation as your automotive vision takes shape, a true reflection of your individuality on the open road.
 
 
 <img width="934" alt="image" src="https://github.com/sallumandya1995/GenZ_Garage/assets/127108567/91f938de-210d-47b5-9bb4-1a7ace4d7111">
 
 
 <img width="920" alt="image" src="https://github.com/sallumandya1995/GenZ_Garage/assets/127108567/10b4cb3c-8840-49c6-8d59-231df7bd03f2">
+------------------------------------------------------------------------------------------------------------------------------------------
 
-## Discover the seamless convenience of our all-in-one platform, where you can effortlessly locate and replace specific parts of your vehicle with the aid of our cutting-edge technology. Effortlessly navigate through our advanced tools to identify and procure the precise car components you desire, streamlining the process with unmatched efficiency. Experience a transformative automotive experience where finding and replacing parts becomes a breeze, empowering you to keep your vehicle in optimal condition with ease.
+Discover the seamless convenience of our all-in-one platform, where you can effortlessly locate and replace specific parts of your vehicle with the aid of our cutting-edge technology. Effortlessly navigate through our advanced tools to identify and procure the precise car components you desire, streamlining the process with unmatched efficiency. Experience a transformative automotive experience where finding and replacing parts becomes a breeze, empowering you to keep your vehicle in optimal condition with ease.
 
 <img width="932" alt="image" src="https://github.com/sallumandya1995/GenZ_Garage/assets/127108567/fbd2313a-1a00-474d-81a9-8e7c6bbee777">
 
 <img width="919" alt="image" src="https://github.com/sallumandya1995/GenZ_Garage/assets/127108567/8349e28a-f062-478a-acab-2a5a4ba6226d">
 
-# Our remarkable platform merges the craftsmanship of Vulcan, the mythical master blacksmith, with the power of advanced technologies, revolutionizing the automotive industry. Just as Vulcan shaped celestial metal into awe-inspiring works of art, our platform empowers you to create automotive masterpieces that transcend expectations. From generating stunning designs with Vertex AI Vision and Stable Diffusion to crafting captivating taglines and names, our platform harnesses the creative fire within you. Embrace the legacy of Vulcan and embark on a journey where innovation meets artistry, propelling the automotive world into a new era of excellence. With our platform as your tool, the possibilities are endless, and your automotive dreams become a reality.
+
+Our remarkable platform merges the craftsmanship of Vulcan, the mythical master blacksmith, with the power of advanced technologies, revolutionizing the automotive industry. Just as Vulcan shaped celestial metal into awe-inspiring works of art, our platform empowers you to create automotive masterpieces that transcend expectations. From generating stunning designs with Vertex AI Vision and Stable Diffusion to crafting captivating taglines and names, our platform harnesses the creative fire within you. Embrace the legacy of Vulcan and embark on a journey where innovation meets artistry, propelling the automotive world into a new era of excellence. With our platform as your tool, the possibilities are endless, and your automotive dreams become a reality.
 
 
 
