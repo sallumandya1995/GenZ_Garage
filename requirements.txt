@@ -1,0 +1,10 @@
+diffusers
+gradio
+torch
+accelerate
+transformers
+opencv-python
+google-search-results
+google-cloud-aiplatform
+requests
+bitsandbytes
